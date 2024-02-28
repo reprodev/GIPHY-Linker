@@ -119,6 +119,7 @@ $instructionAction = {
                "- Paste the link into the box in GIPHY Linker.`n" +
                "- Click 'Convert into Markdown with HTML' to create the HTML code for your Blog with your chosen GIF.`n" +
                "- Use 'Copy HTML' to copy the link to your clipboard.`n" +
+               "- Paste your HTML line of code into your blog.`n" +
                "- Use 'Clear' to reset the form and start again."
     [System.Windows.Forms.MessageBox]::Show($message, "GIPHY Linker Instructions")
 }
