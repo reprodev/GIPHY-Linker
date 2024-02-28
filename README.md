@@ -37,7 +37,7 @@ Use this tool to convert GIPHY.com GIF Sharing links into a line of Markdown wit
 
 ![07-Giphy-Linker](https://github.com/reprodev/GIPHY-Linker/assets/8764255/c8068261-03f8-47a5-b81f-d5a097e96255)
 
-8. Use 'Clear' to reset the form and start again
+8. Use 'Clear' to reset the form and start it up again
 
 # Finally!
 
