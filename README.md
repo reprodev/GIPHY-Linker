@@ -1,5 +1,5 @@
 # GIPHY Linker
-**A GUI tool built in Powershell to quickly generate the line of HTML code to embed a GIF into a Blog like Dev.To from a GIF site like GIPHY.com**
+**A GUI tool built in Powershell to help with embedding a GIF into a Blog like Dev.To from a GIF site like GIPHY.com**
 
 <a href='https://ko-fi.com/Z8Z6E0CY0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
