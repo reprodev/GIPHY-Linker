@@ -5,6 +5,8 @@
 
 Use this tool to convert GIPHY.com GIF Sharing links into a line of Markdown with HTML code for blogs and some Markdown editors.
 
+[ReproDev.com GIPHY-Linker article](https://reprodev.com/giphy-linker-an-easier-way-to-embed-gifs-into-your-blog/)
+
 ![00-Giphy-Linker](https://github.com/reprodev/GIPHY-Linker/assets/8764255/f5220f0a-25ac-4759-aca3-b480e0cf2436)
 
 ## Instructions
