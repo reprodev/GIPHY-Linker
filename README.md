@@ -27,15 +27,15 @@ Use this tool to convert GIPHY.com GIF Sharing links into a line of Markdown wit
 
 ![05-Giphy-Linker](https://github.com/reprodev/GIPHY-Linker/assets/8764255/9ca56252-54ed-4532-85c6-7242bb857ba9)
 
-5. Use 'Copy HTML' to copy the link to your clipboard.
+5. Use 'Copy HTML' to copy the link to your clipboard
 
 ![06-Giphy-Linker](https://github.com/reprodev/GIPHY-Linker/assets/8764255/ae978b2c-1698-4155-8009-a2a9202711ae)
 
-6. Paste your HTML line of code into your blog
+6. Paste your HTML line of code into your blog like normal
 
 ![07-Giphy-Linker](https://github.com/reprodev/GIPHY-Linker/assets/8764255/c8068261-03f8-47a5-b81f-d5a097e96255)
 
-7. Use 'Clear' to reset the form and start again.
+7. Use 'Clear' to reset the form and start again
 
 # Finally!
 
