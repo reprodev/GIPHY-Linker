@@ -1,7 +1,7 @@
 ######################################################################################
 # GIPHY-Linker V1.0 - Released 28/02/2024                                            #
 #                                                                                    #
-# Script Created by ReproDev:   https://github.com/reprodev/GIPHY=Linker/            #
+# Script Created by ReproDev:   https://github.com/reprodev/GIPHY-Linker/            #
 # Released Under MIT Licence                                                         # 
 # Check out other projects :    https://github.com/reprodev/                         #
 # Why not buy me a coffee? :    https://ko-fi.com/reprodev                           #
